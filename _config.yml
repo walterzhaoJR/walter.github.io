@@ -1,0 +1,13 @@
+title: Meow
+author: KernelMaker
+description: Meow~.
+
+highlighter: null
+permalink: /:title
+
+url:
+baseurl:
+
+sass:
+  sass_dir: public/css
+  style: :compressed
