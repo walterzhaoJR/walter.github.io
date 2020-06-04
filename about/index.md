@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-**Github**: [KernelMaker](https://github.com/KernelMaker)
+**Github**: [walter's github](https://github.com/walterzhaoJR)
 
-**E-mail**: songzhao.asm@icloud.com
+**E-mail**: 519362600@qq.com
